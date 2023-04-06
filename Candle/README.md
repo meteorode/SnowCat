@@ -1,6 +1,6 @@
 # Candle
 
-![Candle](SnowCat/Candle/candle.png)
+![Candle Logo](LOGO/candle.png)
 
 ## Intro
 

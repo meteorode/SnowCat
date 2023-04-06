@@ -1,6 +1,6 @@
 # Candle
 
-![Candle]()
+![Candle](candle.png)
 
 ## Intro
 

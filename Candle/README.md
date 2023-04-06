@@ -1,6 +1,6 @@
 # Candle
 
-![Candle](candle.png)
+![Candle](SnowCat/Candle/candle.png)
 
 ## Intro
 

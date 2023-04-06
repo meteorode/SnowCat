@@ -11,4 +11,9 @@ We'll try here three magic to make cats and us much more friendly:
   * "Looking-glass upon the wall,Who is fairest of us all?"
 - Apple: A ball to make pets happy, also keep doctors away!
 
-//TO_BE_CONTINUED.
+## Ref
+
+- [NLP@Hyperion](https://github.com/meteorode/Hyperion-Reloaded/tree/master/Jiang%20Hu/scripts)
+- [Cat Language](https://www.thesprucepets.com/cat-language-explained-553981)
+- [SAM](https://github.com/facebookresearch/segment-anything)
+
